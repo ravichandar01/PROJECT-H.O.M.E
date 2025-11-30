@@ -1,0 +1,5 @@
+{
+  "name": "Home Project",
+  "description": "A responsive, artistic web page displaying the word HOME using a collage of photo tiles styled with CSS Grid.",
+  "requestFramePermissions": []
+}
